@@ -1,0 +1,19 @@
+.badge-complete {
+    background: #00c292
+}
+
+.badge-pending {
+    background: #fb9678
+}
+
+.badge-delete {
+    background: #F93521 
+}
+
+.badge-edit {
+    background: #218FF9  
+}
+
+.text-color{
+    color: white;
+} 
